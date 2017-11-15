@@ -29,7 +29,7 @@ var conf = {
     test: {
         ip: args.ip || "0.0.0.0",
         port: args.port || 8082,
-        database: "mongodb://138.68.46.95/nanima_prod"
+        database: "mongodb://127.0.0.1/nanima_prod"
     }
 };
 
